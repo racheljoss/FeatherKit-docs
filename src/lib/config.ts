@@ -12,7 +12,7 @@ import type { Feature, PromoConfig, SiteConfig } from "./types/config";
 
 export const siteConfig: SiteConfig = {
     version: '0.0.1',
-    title: 'Feather Kit for SwiftUI',
+    title: 'FeatherKit for SwiftUI',
     description:
         'Lightweight SwiftUI Design Toolkit & UI Theme Utilities. Built for SwiftUI framework and native iOS components. By a developer, for developers.',
     github: 'https://github.com/racheljoss/FeatherKit',
