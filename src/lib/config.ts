@@ -12,10 +12,10 @@ import type { Feature, PromoConfig, SiteConfig } from "./types/config";
 
 export const siteConfig: SiteConfig = {
     version: '0.0.1',
-    title: 'Documentation',
+    title: 'Feather Kit for SwiftUI',
     description:
-        'Comprehensive documentation for your project. Built with Svelte 5, MDSvex, Tailwind CSS, and shadcn/ui components.',
-    github: 'https://github.com/code-gio/svelte-firekit-docs',
+        'Lightweight SwiftUI Design Toolkit & UI Theme Utilities. Built for SwiftUI framework and native iOS components. By a developer, for developers.',
+    github: 'https://github.com/racheljoss/FeatherKit',
     npm: '',
 
     quickLinks: [
@@ -45,7 +45,7 @@ export let socialLinks: SocialLink[] = [
     },
     {
         title: 'GitHub',
-        href: 'https://github.com/code-gio',
+        href: 'https://github.com/racheljoss',
         icon: 'github'
     },
 
